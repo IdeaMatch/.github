@@ -3,8 +3,7 @@
 ```
 IdeaMatch! is a newly launched platform www.idealabmatch.io 
 which enables our passionate participants to elevate their businesses. 
-The platform helps founders find co-founders, match business ideas, 
-and exchange business ideas.
+The platform helps founders find co-founders, match and exchange business ideas.
 ```
 <br></br>
 <br></br>
